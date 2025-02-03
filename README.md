@@ -13,4 +13,3 @@ That's it! Enjoy using the mouse blob.
 ## License
 
 This project is licensed under The Unlicense - see the [LICENSE](LICENSE) file for details.
-Play the game here: [Pixelated Game](https://dancingpumpkin65.github.io/fun-made/)
