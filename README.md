@@ -2,6 +2,10 @@
 
 This is a fun project that features a blob that follows the mouse cursor. It's created with HTML, CSS, and JavaScript.
 
+## Demo
+
+[Blob](https://dancingpumpkin65.github.io/fun-made/)
+
 ## How to Use
 
 1. Download or clone the repository to your local machine.
